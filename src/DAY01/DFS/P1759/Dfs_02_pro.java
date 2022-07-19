@@ -1,4 +1,4 @@
-package DAY01.DFS;
+package DAY01.DFS.P1759;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

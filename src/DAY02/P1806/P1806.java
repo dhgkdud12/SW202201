@@ -22,19 +22,19 @@ public class P1806 {
             nums[i] = Integer.parseInt(st.nextToken());
         }
 
-        int low = 0, high = 0, sum = 0, minLen = Integer.MAX_VALUE;
+        int low = 0, high = 0, sum = nums[0], minLen = Integer.MAX_VALUE;
 
-        System.out.println("nums[0]:" + nums[0]);
         while (true) {
             if (sum >= S) {
-                System.out.print(low + " ");
-                System.out.println(high);
-                minLen = Math.min(high - low + 1, minLen);
+                minLen = Math.min((high - low) + 1, minLen);
                 sum -= nums[low++];
-            } else if (high == N) {
+            }
+            else if (sum < S) {
+                sum += nums[++high];
+            }
+
+            if (high == N) {
                 break;
-            } else {
-                sum += nums[high++];
             }
         }
 

@@ -37,10 +37,10 @@ public class P2143 {
 
         //subA 구하기
         for (int i = 0; i < N; i++) {
-            long sum = inputA[i];
+            long sum = inputA[i]; // 1, 3, 1, 2
             subA.add(sum);
             for (int j = i+1; j < N; j++) {
-                sum += inputA[j];
+                sum += inputA[j]; // 1, 4, 5, 7, 3, 4, 5, 1, 3, 2
                 subA.add(sum);
             }
         }
@@ -48,14 +48,14 @@ public class P2143 {
         for (int i = 0; i < M; i++) {
             long sum = 0;
             for (int j = i; j < M; j++) {
-                sum += inputB[j];
+                sum += inputB[j]; // 1, 4, 6, 3, 5, 2
                 subB.add(sum);
             }
         }
 
         //subA, subB 정렬하기
-        Collections.sort(subA);
-        Collections.sort(subB, Comparator.reverseOrder());
+        Collections.sort(subA);                            // 1, 1, 2, 3, 3, 4, 4, 5, 6, 7
+        Collections.sort(subB, Comparator.reverseOrder()); // 6, 5, 4, 3, 2, 1
 
         long result = 0;
         int ptA = 0;
@@ -65,9 +65,9 @@ public class P2143 {
             long target = T - currentA;
             //currentB == target -> subA, subB 같은 수 개수 체크 -> 답구하기, ptA+, ptb+
             if (subB.get(ptB) == target) {
-                long countA = 0;
-                long countB = 0;
-                while (ptA < subA.size() && subA.get(ptA) == currentA) {
+                long countA = 0; // subA 같은 수 체크
+                long countB = 0; // subB 같은 수 체크
+                while (ptA < subA.size() && subA.get(ptA) == currentA) { 
                     countA++;
                     ptA++;
                 }
@@ -75,8 +75,8 @@ public class P2143 {
                     countB++;
                     ptB++;
                 }
-                result += countA * countB;
-                System.out.println(result);
+
+                result += countA * countB; // 곱해줌
             }
             //currentB > target -> ptB++
             else if (subB.get(ptB) > target) {
@@ -88,8 +88,11 @@ public class P2143 {
             }
 
             //탈출 조건
+            if (ptA == subA.size() || ptB == subB.size())
+                break;
 
         }
+        System.out.println(result);
 
     }
 }

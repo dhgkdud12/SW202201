@@ -1,8 +1,6 @@
 package DAY02.P2003;
 
 import java.io.*;
-import java.util.Arrays;
-import java.util.Scanner;
 import java.util.StringTokenizer;
 
 public class P2003 {

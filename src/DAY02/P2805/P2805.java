@@ -27,11 +27,11 @@ public class P2805 {
         }
 
         long s = 0;
-        long e = max;
+        long e = max; // 제일 큰 값
         long mid;
         long result = 0;
         while (true) {
-            mid = (s+e) / 2;
+            mid = (s+e) / 2; // 평균
             long sum = calc(mid);
             // sum == M -> 정답, 탈출
             if (sum == M) {
@@ -55,7 +55,7 @@ public class P2805 {
         System.out.println(result);
     }
 
-    static long calc(long value) {
+    static long calc(long value) { // 절단 후 나무 길이
         long result = 0;
         for (int i = 0; i < trees.length; i++) {
             int tree = trees[i];

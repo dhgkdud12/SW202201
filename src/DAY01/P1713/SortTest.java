@@ -27,11 +27,11 @@ public class SortTest {
             }
         };
 
-        Collections.sort(list, comp);
+        Collections.sort(list, comp); // c 기준 정렬
         System.out.println(list);
 
         Collections.sort(list, Comparator.comparingInt(Item::getB).thenComparingInt(Item::getA).reversed().thenComparingInt(Item::getC).reversed());
-        System.out.println(list);
+        System.out.println(list); // b, a, c 순으로 정렬?
     }
 }
 

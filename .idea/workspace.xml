@@ -5,239 +5,161 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b59a8bd5-2416-42b5-95af-7108d94a28e5" name="변경" comment="DAY 2 - 슬라이딩 윈도우, Parametric search">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY01/BFS/P3055/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY01/DFS/P1759/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY01/P1713/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY02/P1072/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY02/P1806/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY02/P2003/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY02/P2143/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY02/P2805/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY02/P2805/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY03/P1202/P1202.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY03/P1202/P1202_pro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY03/P1202/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY03/P1927/P1927.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY03/P1927/P1927_pro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY03/P1927/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY03/P2042/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY03/P2042/P2042.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY03/P2042/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY03/P2243/P2243.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY03/P2243/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY04/P14476/P14476.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY04/P14476/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY04/P3955/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY04/P9202/P9202.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY05/P1256/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY05/P1256/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY05/P1722/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY05/P1722/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY05/P1837/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY05/P1837/P1837.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY05/P1837/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY06/P11438/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY06/P11438/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY06/P1717/P1717.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY06/P1922/P1922.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY06/P1922/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY06/P2252/P2252.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY06/P2252/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY07/P11266/P11266.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY07/P11266/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY07/P11657/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY07/P11657/P11657.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY07/P11657/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY07/P1753/P1753.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY07/P1753/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY07/P1854/P1854.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY07/P1854/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY07/P2458/P2458.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY07/P2458/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY08/P17398/P17398.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY08/P3176/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY08/P3176/P3176.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY08/P3176/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY08/P3830/P3830.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY08/P3830/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY08/P5719/P5719.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY08/P5719/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY09/P11049/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY09/P11660/P11660.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY09/P14003/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY09/P1932/P1932.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY09/P2098/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY10/P1102/P1102.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY10/P11062/P11062.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY10/P7579/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY10/P7579/P7579.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAVA/OOP/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAVA/OOP/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAVA/OOP/Vending_Machine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/Programmers/BinarySearch/Immigration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/Programmers/Graph/game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/Programmers/Graph/network.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/Programmers/Graph/puzzle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/Programmers/Graph/travleroute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/Programmers/Graph/words.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/Programmers/Sort/BigNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/Programmers/Sort/H_Index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D1/P1933.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D1/P1936.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D1/P1938.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D1/P2019.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D1/P2025.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D1/P2027.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D1/P2029.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D1/P2043.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D1/P2050.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D1/P2056/P2056.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D1/P2056/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D1/P2058.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D1/P2063/P2063.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D1/P2063/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D1/P2070.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D1/P2071/P2071.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D1/P2071/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D1/P2072/P2072.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D1/P2072/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/P1204/P1204.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/P1204/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/P1284/P1284.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/P1284/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/P1285/P1285.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/P1285/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/P1288/P1288.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/P1288/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/P1940/P1940.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/P1940/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/P1945/P1945.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/P1945/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/P1946/P1946.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/P1946/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/P1948/P1948.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/P1948/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/P1959/P1959.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/P1959/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/P1961/P1961.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/P1961/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/P1966/P1966.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/P1966/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/P1970/P1970.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/P1970/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/P1974/P1974.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/P1974/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/P1976/P1976.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/P1976/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/P1979/P1979.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/P1979/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/P1984/P1984.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/P1984/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/P1986/P1986.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/P1986/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/P1989/P1989.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/P1989/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/P2005/Combination.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/P2005/P2005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/P2005/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/완/P1859/P1859.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/완/P1859/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/완/P1926/P1926.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/완/P1928/P1928.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/완/P1928/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/완/P1954/P1954.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/완/P1983/P1983.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/완/P1983/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/완/P2001/P2001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/완/P2001/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/완/P2007/P2007.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/완/P2007/P2007_Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/완/P2007/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/SWEA/D3/P5549/P5549.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Backtracking/N_Queen/P9663.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Backtracking/P15651/P15650.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Backtracking/P15651/P15651.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Backtracking/P15651/P15652.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/DP/P24416/P24416.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/DP/P24416/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/DataStructure/P11279/P11279.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/DataStructure/P11279/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Dijkstra/P1238/P1238.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Dijkstra/P1753/P1753.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Dijkstra/P1753/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Dijkstra/P1854/P1854.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Dijkstra/P1854/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Dijkstra/P1916/P1916.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Dijkstra/P1916/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Graph/MST/P1197/P1197.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Graph/MST/P1197/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Graph/MST/P1647/P1647.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Graph/MST/P1647/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Graph/MST/P4386/P4386.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Graph/MST/P4386/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Graph/P10026/P10026.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Graph/P10026/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Graph/P1012/P1012.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Graph/P1012/P1012_BFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Graph/P1012/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Graph/P11724/P11724.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Graph/P11724/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Graph/P11725/P11725.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Graph/P11725/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Graph/P16236/P16236.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Graph/P16236/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Graph/P16236/question" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Graph/P1697/P1697.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Graph/P1697/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Graph/P4963/P4963.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Graph/P4963/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Graph/P7576/P7576.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Graph/P7576/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Graph/P7579/P7579.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Graph/P7579/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Greedy/P11047/P11047.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Greedy/P11047/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Greedy/P11399/P11399.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Greedy/P11399/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Greedy/P1931/P1931.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Greedy/P1931/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/P1654/P1654.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/P2178/P2178.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/P2178/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/P24444/P24444.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/P24444/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/P24479/P24479.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/P24479/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/P2606/P2606.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/P2606/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/P2667/P2667.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/P2667/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Sort/P10814/P10814.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Sort/P10814/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Sort/P11650/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Sort/P11651/P11651.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Sort/P11651/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Sort/P1764/P1764.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Sort/P1764/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Sort/P18870/P18870.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Sort/P18870/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Sort/P25305/P25305.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/backjoon/Sort/P25305/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/nadongbin/Sort/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/nadongbin/Sort/twoarrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY01/P1713/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAY01/P1713/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY01/P1713/SortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAY01/P1713/SortTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY02/P1072/P1072.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAY02/P1072/P1072.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY02/P1806/P1806.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAY02/P1806/P1806.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY02/P2003/P2003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAY02/P2003/P2003.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY02/P2143/P2143.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAY02/P2143/P2143.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY02/P2805/P2805.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAY02/P2805/P2805.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Step/P1193/P1193.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Step/P1712/P1712.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Step/P25304/P25304.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Step/P2941/P2941.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Step/P3003/P3003.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY01/BFS/P3055/Bfs_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY01/BFS/P3055/Bfs_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY01/BFS/P3055/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY01/BFS/P3055/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY01/DFS/P1062/Dfs_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY01/DFS/P1062/Dfs_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY01/DFS/P1062/Dfs_01_pro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY01/DFS/P1062/Dfs_01_pro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY01/DFS/P1759/Dfs_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY01/DFS/P1759/Dfs_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY01/DFS/P1759/Dfs_02_pro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY01/DFS/P1759/Dfs_02_pro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY01/DFS/P1759/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY01/DFS/P1759/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY01/P1713/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY01/P1713/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY01/P1713/SortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY01/P1713/SortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY01/P1713/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY01/P1713/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY02/P1072/P1072.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY02/P1072/P1072.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY02/P1072/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY02/P1072/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY02/P1806/P1806.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY02/P1806/P1806.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY02/P1806/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY02/P1806/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY02/P2003/P2003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY02/P2003/P2003.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY02/P2003/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY02/P2003/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY02/P2143/P2143.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY02/P2143/P2143.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY02/P2143/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY02/P2143/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY02/P2805/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY02/P2805/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY02/P2805/P2805.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY02/P2805/P2805.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY02/P2805/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY02/P2805/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY03/P1202/P1202.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY03/P1202/P1202.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY03/P1202/P1202_pro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY03/P1202/P1202_pro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY03/P1202/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY03/P1202/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY03/P1927/P1927.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY03/P1927/P1927.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY03/P1927/P1927_pro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY03/P1927/P1927_pro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY03/P1927/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY03/P1927/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY03/P2042/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY03/P2042/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY03/P2042/P2042.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY03/P2042/P2042.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY03/P2042/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY03/P2042/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY03/P2243/P2243.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY03/P2243/P2243.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY03/P2243/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY03/P2243/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY04/P14476/P14476.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY04/P14476/P14476.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY04/P14476/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY04/P14476/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY04/P3955/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY04/P3955/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY04/P9202/P9202.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY04/P9202/P9202.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY05/P1256/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY05/P1256/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY05/P1256/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY05/P1256/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY05/P1722/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY05/P1722/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY05/P1722/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY05/P1722/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY05/P1837/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY05/P1837/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY05/P1837/P1837.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY05/P1837/P1837.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY05/P1837/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY05/P1837/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY06/P11438/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY06/P11438/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY06/P11438/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY06/P11438/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY06/P1717/P1717.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY06/P1717/P1717.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY06/P1922/P1922.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY06/P1922/P1922.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY06/P1922/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY06/P1922/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY06/P2252/P2252.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY06/P2252/P2252.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY06/P2252/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY06/P2252/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY07/P11266/P11266.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY07/P11266/P11266.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY07/P11266/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY07/P11266/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY07/P11657/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY07/P11657/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY07/P11657/P11657.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY07/P11657/P11657.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY07/P11657/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY07/P11657/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY07/P1753/P1753.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY07/P1753/P1753.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY07/P1753/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY07/P1753/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY07/P1854/P1854.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY07/P1854/P1854.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY07/P1854/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY07/P1854/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY07/P2458/P2458.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY07/P2458/P2458.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY07/P2458/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY07/P2458/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY08/P17398/P17398.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY08/P17398/P17398.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY08/P3176/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY08/P3176/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY08/P3176/P3176.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY08/P3176/P3176.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY08/P3176/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY08/P3176/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY08/P3830/P3830.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY08/P3830/P3830.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY08/P3830/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY08/P3830/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY08/P5719/P5719.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY08/P5719/P5719.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY08/P5719/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY08/P5719/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY09/P11049/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY09/P11049/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY09/P11660/P11660.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY09/P11660/P11660.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY09/P14003/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY09/P14003/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY09/P1932/P1932.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY09/P1932/P1932.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY09/P2098/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY09/P2098/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY10/P1102/P1102.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY10/P1102/P1102.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY10/P11062/P11062.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY10/P11062/P11062.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY10/P7579/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY10/P7579/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY10/P7579/P7579.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDS/DAY10/P7579/P7579.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/SWEA/D2/P1948/P1948.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/P1948/P1948.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/SWEA/D2/P1948/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/SWEA/D2/P1948/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Backtracking/N_Queen/P9663.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Backtracking/N_Queen/P9663.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Backtracking/P15651/P15650.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Backtracking/P15651/P15650.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Backtracking/P15651/P15651.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Backtracking/P15651/P15651.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Backtracking/P15651/P15652.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Backtracking/P15651/P15652.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/DP/P24416/P24416.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/DP/P24416/P24416.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/DP/P24416/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/DP/P24416/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/DataStructure/P11279/P11279.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/DataStructure/P11279/P11279.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/DataStructure/P11279/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/DataStructure/P11279/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Dijkstra/P1238/P1238.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Dijkstra/P1238/P1238.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Dijkstra/P1753/P1753.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Dijkstra/P1753/P1753.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Dijkstra/P1753/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Dijkstra/P1753/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Dijkstra/P1854/P1854.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Dijkstra/P1854/P1854.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Dijkstra/P1854/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Dijkstra/P1854/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Dijkstra/P1916/P1916.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Dijkstra/P1916/P1916.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Dijkstra/P1916/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Dijkstra/P1916/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Graph/MST/P1197/P1197.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Graph/MST/P1197/P1197.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Graph/MST/P1197/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Graph/MST/P1197/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Graph/MST/P1647/P1647.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Graph/MST/P1647/P1647.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Graph/MST/P1647/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Graph/MST/P1647/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Graph/MST/P4386/P4386.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Graph/MST/P4386/P4386.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Graph/MST/P4386/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Graph/MST/P4386/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Graph/P10026/P10026.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Graph/P10026/P10026.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Graph/P10026/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Graph/P10026/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Graph/P1012/P1012.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Graph/P1012/P1012.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Graph/P1012/P1012_BFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Graph/P1012/P1012_BFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Graph/P1012/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Graph/P1012/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Graph/P11724/P11724.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Graph/P11724/P11724.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Graph/P11724/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Graph/P11724/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Graph/P11725/P11725.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Graph/P11725/P11725.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Graph/P11725/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Graph/P11725/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Graph/P16236/P16236.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Graph/P16236/P16236.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Graph/P16236/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Graph/P16236/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Graph/P16236/question" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Graph/P16236/question" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Graph/P1697/P1697.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Graph/P1697/P1697.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Graph/P1697/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Graph/P1697/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Graph/P4963/P4963.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Graph/P4963/P4963.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Graph/P4963/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Graph/P4963/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Graph/P7576/P7576.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Graph/P7576/P7576.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Graph/P7576/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Graph/P7576/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Graph/P7579/P7579.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Graph/P7579/P7579.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Graph/P7579/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Graph/P7579/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Greedy/P11047/P11047.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Greedy/P11047/P11047.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Greedy/P11047/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Greedy/P11047/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Greedy/P11399/P11399.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Greedy/P11399/P11399.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Greedy/P11399/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Greedy/P11399/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Greedy/P1931/P1931.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Greedy/P1931/P1931.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Greedy/P1931/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Greedy/P1931/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/P1654/P1654.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/PS/P1654/P1654.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/P2178/P2178.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/PS/P2178/P2178.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/P2178/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/PS/P2178/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/P24444/P24444.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/PS/P24444/P24444.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/P24444/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/PS/P24444/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/P24479/P24479.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/PS/P24479/P24479.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/P24479/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/PS/P24479/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/P2606/P2606.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/PS/P2606/P2606.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/P2606/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/PS/P2606/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/P2667/P2667.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/PS/P2667/P2667.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/P2667/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/PS/P2667/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Sort/P10814/P10814.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Sort/P10814/P10814.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Sort/P10814/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Sort/P10814/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Sort/P11650/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Sort/P11650/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Sort/P11651/P11651.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Sort/P11651/P11651.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Sort/P11651/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Sort/P11651/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Sort/P1764/P1764.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Sort/P1764/P1764.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Sort/P1764/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Sort/P1764/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Sort/P18870/P18870.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Sort/P18870/P18870.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Sort/P18870/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Sort/P18870/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Sort/P25305/P25305.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Sort/P25305/P25305.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/backjoon/Sort/P25305/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Backjoon/Algorithm/Sort/P25305/input.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -252,6 +174,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -298,11 +225,11 @@
       <recent name="C:\Users\ohayoung\Desktop\SW202201\src\Solution\SWEA\D2\P1284" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\오하영\Documents\GitHub\SW202201\src\Solution\backjoon\algorithm\P24416" />
       <recent name="C:\Users\ohayoung\Desktop\SW202201\src\Solution\SWEA\D2\완\P1859" />
       <recent name="C:\Users\ohayoung\Desktop\SW202201\src\Solution\SWEA\D1\P2072" />
       <recent name="C:\Users\ohayoung\Desktop\SW202201\src\Solution\backjoon\Dijkstra\P1753" />
       <recent name="C:\Users\ohayoung\Desktop\SW202201\src\DAY01\BFS\P1759" />
-      <recent name="C:\Users\ohayoung\Desktop\SW202201\src\DAY01\P1759" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Solution.SWEA.D2.P1970" />
@@ -312,13 +239,13 @@
       <recent name="Solution.SWEA.D2.P1984" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P1284">
-    <configuration name="P1284" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution.SWEA.D2.P1284.P1284" />
-      <module name="SW2022010" />
+  <component name="RunManager" selected="Application.P1948">
+    <configuration name="P1193" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution.Backjoon.Step.P1193.P1193" />
+      <module name="SW202201" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Solution.SWEA.D2.P1284.*" />
+          <option name="PATTERN" value="Solution.Backjoon.Step.P1193.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -326,12 +253,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P1959" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution.SWEA.D2.P1959.P1959" />
-      <module name="SW2022010" />
+    <configuration name="P1712" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution.Backjoon.Step.P1712.P1712" />
+      <module name="SW202201" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Solution.SWEA.D2.P1959.*" />
+          <option name="PATTERN" value="Solution.Backjoon.Step.P1712.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -339,12 +266,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P1961" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution.SWEA.D2.P1961.P1961" />
-      <module name="SW2022010" />
+    <configuration name="P1948" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution.SWEA.D2.P1948.P1948" />
+      <module name="SW202201" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Solution.SWEA.D2.P1961.*" />
+          <option name="PATTERN" value="Solution.SWEA.D2.P1948.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -352,12 +279,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P1966" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution.SWEA.D2.P1966.P1966" />
-      <module name="SW2022010" />
+    <configuration name="P25304" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution.Backjoon.Step.P25304.P25304" />
+      <module name="SW202201" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Solution.SWEA.D2.P1966.*" />
+          <option name="PATTERN" value="Solution.Backjoon.Step.P25304.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -365,12 +292,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P5549" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution.SWEA.D3.P5549.P5549" />
-      <module name="SW2022010" />
+    <configuration name="P2941" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution.Backjoon.Step.P2941.P2941" />
+      <module name="SW202201" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Solution.SWEA.D3.P5549.*" />
+          <option name="PATTERN" value="Solution.Backjoon.Step.P2941.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -380,11 +307,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.P1284" />
-        <item itemvalue="Application.P1959" />
-        <item itemvalue="Application.P5549" />
-        <item itemvalue="Application.P1961" />
-        <item itemvalue="Application.P1966" />
+        <item itemvalue="Application.P1948" />
+        <item itemvalue="Application.P1193" />
+        <item itemvalue="Application.P1712" />
+        <item itemvalue="Application.P2941" />
+        <item itemvalue="Application.P25304" />
       </list>
     </recent_temporary>
   </component>
@@ -500,6 +427,37 @@
     <MESSAGE value="DAY 1 - DFS, BFS" />
     <MESSAGE value="DAY 2 - 슬라이딩 윈도우, Parametric search" />
     <option name="LAST_COMMIT_MESSAGE" value="DAY 2 - 슬라이딩 윈도우, Parametric search" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution/SWEA/D2/P1948/P1948.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution/SWEA/D2/P1948/P1948.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution/SWEA/D2/P1948/P1948.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution/SWEA/D2/P1948/P1948.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution/SWEA/D2/P1948/P1948.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
